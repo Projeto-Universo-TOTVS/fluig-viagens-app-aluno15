@@ -46,7 +46,7 @@ function createDataset(fields, constraints, sortFields) {
             ["GBR", "Reino Unido", "GB"],
             ["JPN", "Japao", "JP"],
             ["CHN", "China", "CN"],
-            ["AUS", "Australia", "AU"]
+           // ["AUS", "Australia", "AU"]
         ];
 
         for (var i = 0; i < paises.length; i++) {
